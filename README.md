@@ -49,7 +49,7 @@ Would like to run this project locally? Open terminal and follow these steps:
 
 1. Clone the repo
     ```sh
-    git clone https://github.com/front-end-by-rimantas/54-grupe-coming-soon.git
+    git clone https://github.com/Mindzeuxas/coming-soon.git
     ```
 2. Install NPM packages
     ```sh
@@ -70,7 +70,7 @@ There is no tests for this project.
 
 ## 🎅 Authors
 
-Mindaugas: [Github](https://github.com/Mindzeuxass)
+Mindaugas: [Github](https://github.com/Mindzeuxas)
 
 ## ⚠️ License
 
