@@ -1,0 +1,30 @@
+.mouse{
+    /* 1em = sito elemento font-size*/
+    font-size: 20px;
+    width: 1.2em;
+    height: 1.9em;
+    border: 0.15em solid #fff;
+    border-radius: 0.6em; /*puse trumpiausios krastines*/
+    align-self: center;
+    
+}
+
+.mouse::before{
+    content: "";
+    font-size: inherit;
+    display: block;
+    width: 0.15em;
+    height: 0.4em;
+    margin-left: 0.375em;
+    margin-top: 0.3em;
+    background-color: #fff;
+    border-radius: 0.2em;
+}
+
+.mouse::after{
+    content: "";
+}
+
+.mouse:hover{
+
+}
